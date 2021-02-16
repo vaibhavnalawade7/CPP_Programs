@@ -11,6 +11,7 @@ int main()
 	
 	printf("Enter 1st Number: \n");
 	scanf("%d",&num);
+	
 	printf("Enter 2nd Number: \n");
 	scanf("%d",&mul);
 	
