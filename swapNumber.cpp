@@ -25,6 +25,13 @@ int main()
 	//Swap num1 In num
 	num= num/num1;
 	
+	/*
+		Sumit's Logic
+		num = num + num1;
+		num1 = num - num1;
+		num =num -num1;
+	*/
+	
 	cout<<"\n\nSwapped Numbers Are As Follow: "<<num<<" & "<<num1;
 	
 	return 0;
