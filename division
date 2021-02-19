@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	//Declaration Of Variables
+	float num,div,ans;
+	
+	cout<<"Division Calculater\n";
+	
+	//Accepting Inputs
+	cout<<"Enter 1st Number\n";
+	cin>>num;
+	cout<<"Enter 2nd Number\n";
+	cin>>div;
+	
+	//Division Logic
+	ans = num / div;
+	
+	//Printing Results
+	cout<<"Division Of "<<num<<" & "<<div<<" Is "<<ans;
+	
+	return 0;
+}
