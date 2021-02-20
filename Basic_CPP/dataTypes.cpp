@@ -23,7 +23,7 @@ int main()
 	e = 4.3;
 	
 	//Printing Results
-	cout<<"Value Of 'int' Is: "<<a<<"\nValue Of 'dobbule' Is: "<<b<<"\nValue Of 'char' Is: "<<c<<"\nValue Of 'string' Is: "<<d<<"\nValue Of 'float' Is: "<<e;
+	cout<<"Value Of 'int' Is: "<<a<<"\nValue Of 'dobbule' Is: "<<b<<"\nValue Of 'char' Is: "<<c<<"\nValue Of 'string' Is: "<<d<<"\nValue Of 'float' Is: "<<e<<"\nValue Of 'bool' Is: "<<f;
 	
 	return 0;
 }
