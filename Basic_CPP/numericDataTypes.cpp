@@ -6,13 +6,13 @@ int main()
 {
 	//Declaration Variables i, f, d
 	
-	//int Is Used To Store Numbers Like 33, 4342, 331 etc. It Has 2 Bytes Size
+	//int Is Used To Store Numbers Like 33, 4342, 331 etc. It Has 4 Bytes Size
 	int	i;
 	
 	//float Is Used To Store Numbers Like 3.14, 4242.221, 422.1 etc. It Has 4 Bytes Size
 	float f;
 	
-	//double Is Used To Store Numbers Has More Than 7 Decimal Points Like 3.14322112
+	//double Is Used To Store Numbers Has More Than 7 Decimal Points Like 3.14322112 etc. It Has 8 Bytes Size.
 	double d;
 	
 	cout<<"Numeric Datatypes In C++";
