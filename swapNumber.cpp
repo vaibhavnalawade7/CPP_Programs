@@ -26,7 +26,7 @@ int main()
 	num= num/num1;
 	
 	/*
-		Sumit's Logic
+		Sumit's Logic This Logic Is Good This Is Faster Than Old
 		num = num + num1;
 		num1 = num - num1;
 		num =num -num1;
